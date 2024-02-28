@@ -1,30 +1,30 @@
-#  EXPLORE BOARD: MyApp
-xxx
+#  EXPLORE BOARD: MyFarmApp
+
 
 ## TRENDS & TECHNOLOGIE
-> Im Feld Trends & Technologien notieren wir Informationen über Megatrends sowie soziokulturelle Trends, Konsum- und Zeitgeisttrends, die einen Einfluss auf unser Projekt haben (könnten). Auch unsere Kenntnisse über aktuelle Technologien und Entwicklungen fließen hier hinein. Vor allem im Bereich der digitalen Innovationen sind diese wichtig.
+> Hier erfassen wir Trends und Technologien im Kontext unseres Projekts, insbesondere wie die App Bauern, Menschen aus der Umgebung und Lebensmittelläden verbinden kann.
 
 ## POTENTIELLE PARTNER & WETTBEWERB
-> Im Feld Potenzielle Partnerschaften & Wettbewerb stehen alle Informationen über relevante Partnerschaften und Wettbewerber in dem Markt, den wir innovieren wollen.
+> Informationen zu möglichen Partnern und Wettbewerbern, die eine ähnliche Verbindung zwischen Bauern, Anwohnern und Lebensmittelläden schaffen, sammeln wir hier.
 
 ## FAKTEN
-> Das Feld Fakten ist gewissermassen unser Joker. Hier steht alles, was sich in den anderen Feldern nicht einordnen lässt, aber irgendwie mit unserem Recherchethema zu tun hat.
+> Dies ist unser Bereich für allgemeine Fakten, die sich nicht klar in andere Kategorien einordnen lassen, aber relevant für unser Vorhaben sind, wie die geografische Verteilung von Bauern und Lebensmittelläden.
 
 ## POTENZIALFELDER
-> Unter Potentialfelder notieren wir wiederkehrende Themenschwerpunkte, die unsere User beschäftigen. Diese sind erste Hinweise auf konkrete Bedürfnisse und entpuppen sich oftmals als Vorstufe von Ideen, die wir später mithilfe des CREATE-Moduls und seiner Methoden herausarbeiten können.
+> Hier notieren wir wiederkehrende Themen, die Bauern, Anwohner und Lebensmittelläden betreffen, um Bedürfnisse und potenzielle Herausforderungen zu identifizieren.
 
 ## USER
-> Das Feld User enthält die Merkmale unseren künftigen Usern. Da die Informationen in diesem Bereich eng mit unseren Notizen in den Feldern Erkenntnisse, Bedürfnisse und Touchpoints zusammenhängen, teilen sich diese vier Rubriken den größten Abschnitt des EXPLORE-Moduls.
+> Unsere Nutzer sind Menschen, die frische Eier und Milch von Bauern in ihrer Umgebung kaufen möchten, während Bauern ihre Produkte direkt an die Verbraucher und Lebensmittelläden anbieten wollen.
 
 ## BEDÜRFNISSE
-> Was wir unter Bedürfnisse notieren, müssen wir mit unserer Innovation (auf)lösen. Die Kombination von User und Bedürfnis ist der Fixpunkt für die Entwicklung von neuen digitalen Produkten und Services.
+> Die Bedürfnisse unserer Nutzer sind der direkte Zugang zu frischen Bauernprodukten und eine effiziente Liefermethode für Bauern an nahegelegene Lebensmittelläden.
 
 ## ERKENNTNISSE
-> Das Feld Erkenntnisse enthält Informationen, die sowohl die physische als auch die emotionale Lebenswelt unserer User betreffen. Hier notieren wir auch passende Analogien, die uns eine neue Perspektive für unser Recherchethema ermöglichen. Oder Analogien, die unsere Empathie für das Recherchethema vertiefen.
+> Informationen über die Lebenswelt von Bauern und Anwohnern, z.B. Herausforderungen beim Verkauf von Produkten, um Lösungsansätze zu entwickeln.
 
 ## TOUCHPOINTS
-> Das Feld Touchpoints listet die Berührungspunkte auf, die User mit einem Service oder Produkt haben.
+> Hier sammeln wir Interaktionspunkte in unserer App, wie die Bestell- und Lieferprozesse zwischen Bauern, Menschen aus der Umgebung und Lebensmittelläden.
 
 ## WIE KÖNNEN WIR?
-> Aus den Informationen über User, Bedürfnisse, Erkenntnisse und Touchpoints entwickeln wir eine Wie-können wir- Frage, die ein ungelöstes Problem für User beschreibt.
+> Wie können wir eine effiziente Plattform schaffen, die den direkten Kauf von frischen Bauernprodukten für Menschen aus der Umgebung ermöglicht und gleichzeitig Bauern eine einfache Lieferung an nahegelegene Lebensmittelläden ermöglicht?
 
