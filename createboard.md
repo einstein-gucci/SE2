@@ -1,6 +1,6 @@
 #  CREATE BOARD: MyApp
 
-![Use case diagram](figures/uc-diagram.drawio.svg)
+![Use case diagram](SE2/usecase2.drawio.svg)
 
 ## IDEEN-BESCHREIBUNG
 > Eine Plattform, die Bauern, Anwohner und Lebensmittelläden verbindet, damit Verbraucher frische Produkte direkt von Bauern kaufen können, während Bauern eine effiziente Lieferung an Lebensmittelläden ermöglicht wird.
